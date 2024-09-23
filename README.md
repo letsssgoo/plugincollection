@@ -2,6 +2,8 @@ just plugin i have made so far. self explanatory plugin.
 
 i dont think the loop taunt and ultra daily are still working fine.
 
+ultra speaker: place all accs in speaker'cell, equip gear and enrage, turn on the infinite range, enable plugin. The enhancements in the plugin are just recommendations.
+
 note for dungeon: It will cause your grim to not responding after running it for about 3-4 hours (though I’m not exactly sure).
 
 auto aggro: it will aggro any monsters if there are any player in the monster's cell
